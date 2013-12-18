@@ -1,12 +1,12 @@
 {	
-	"cmd": ["C:\\Users\\g1rxf01\\AppData\\Roaming\\Sublime Text 2\\Packages\\sublime_stata2\\Stata\\rundo.exe", "$file"],
+	"cmd": ["C:\\Users\\g1bmi00\\AppData\\Roaming\\Sublime Text 2\\Packages\\sublime_stata2\\Stata\\rundo.exe", "$file"],
 	"selector": "source.stata",
 	"shell": true,
 
 
 "variants": [
 
-        { "cmd": ["C:\\Users\\g1rxf01\\AppData\\Roaming\\Sublime Text 2\\Packages\\sublime_stata2\\Stata\\rundolines.exe"],
+        { "cmd": ["C:\\Users\\g1bmi00\\AppData\\Roaming\\Sublime Text 2\\Packages\\sublime_stata2\\Stata\\rundolines.exe"],
           "name": "Run",
           "shell": true
         }
